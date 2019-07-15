@@ -2,5 +2,5 @@
 
 int main()
 {
-	returm 0
+	returm 3
 }
