@@ -7,5 +7,8 @@ oops
 
 *This is the change that I am making and it is in italics*
 
-: you can include bulleted lists
-
+eou can include bulleted lists
+- One
+- Two
+- Three 
+_ Four
